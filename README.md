@@ -1,2 +1,3 @@
-# Solidity-Basics
-Some basic trials on solidity
+# Basic 
+Rrials on ARM Stellaris
+
