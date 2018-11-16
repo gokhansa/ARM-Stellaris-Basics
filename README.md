@@ -1,3 +1,3 @@
 # Basic 
-Rrials on ARM Stellaris
+Trials on ARM Stellaris
 
